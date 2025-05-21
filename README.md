@@ -60,7 +60,7 @@
 
 > “During my consulting work at PwC, I saw firsthand the inefficiencies caused by using either overly complex tools or entirely manual ones. PMO Compass is my answer to these challenges — a tailored solution grounded in real user pain points.”
 
-📌 Read more in the [Dissertation](./Dissertation.pdf)
+
 
 ---
 
@@ -68,21 +68,33 @@
 
 
 ### 📊 Dashboard
-![Dashboard](./screenshots/dashboard.png)
+<div style="display: flex; gap: 10px;">
+  <img src="https://i.imgur.com/QVH21bY.png" alt="Dashboard" width="700"/>
+  <img src="./screenshots/Screenshot 2025-05-21 at 12.40.35.png" alt="Dashboard" width="300"/>
+</div>
+
 
 ### 🗂️ Deliverables with Gantt Chart
-![Gantt Chart](./screenshots/deliverables-gantt.png)
+  <img src="./screenshots/Screenshot 2025-05-21 at 12.40.08.png" alt="Dashboard" width="700"/>
 
 ### 🔁 Change Request Tracker
-![Change Requests](./screenshots/change-requests.png)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+  <img src="./screenshots/Screenshot 2025-05-21 at 12.46.36.png" alt="Dashboard Overview" width="500"/>
+  <img src="./screenshots/Screenshot 2025-05-21 at 12.50.08.png" alt="Deliverables with Gantt Chart" width="680"/>
+  <img src="./screenshots/Screenshot 2025-05-21 at 12.50.32.png" alt="Change Request Tracker" width="500"/>
+  <img src="./screenshots/Screenshot 2025-05-21 at 12.50.57.png" alt="Risk Matrix" width="680"/>
+</div>
 
 ### ⚠️ Risk Matrix
-![Risk Matrix](./screenshots/risk-matrix.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+  <img src="./screenshots/Screenshot%202025-05-21%20at%2012.55.43.png" alt="Dashboard Overview" width="500"/>
+  <img src="./screenshots/Screenshot%202025-05-21%20at%2012.56.06.png" alt="Change Request Tracker" width="700"/>
+</div>
 
 ### 🧠 Project Clustering with NLP
-![Project Clusters](./screenshots/project-clusters.png)
+<img src="https://i.imgur.com/LVmlEO4.png" alt="Dashboard" width="500"/>
 
----
 
 ## 🛠️ Code
 
